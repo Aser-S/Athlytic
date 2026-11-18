@@ -1,0 +1,13 @@
+# raw scraped data contains reviewer names / profile links - only the anonymised copy in data/ is published
+/Gezira-Scraper.json
+/gezira_lowest500.json
+# large / personal files
+*.pptx
+*.pdf
+/REPORT.tex
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/

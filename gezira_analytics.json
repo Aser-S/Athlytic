@@ -1,0 +1,56 @@
+{
+  "club": "Gezira Sporting Club",
+  "total_reviews_analyzed": 339,
+  "aspect_analytics": {
+    "Facilities": {
+      "mentions": 83,
+      "positive_pct": 68.7,
+      "negative_pct": 31.3
+    },
+    "Prices": {
+      "mentions": 65,
+      "positive_pct": 55.4,
+      "negative_pct": 44.6
+    },
+    "Community": {
+      "mentions": 139,
+      "positive_pct": 79.1,
+      "negative_pct": 20.9
+    },
+    "Greenery": {
+      "mentions": 73,
+      "positive_pct": 63.0,
+      "negative_pct": 37.0
+    },
+    "Service": {
+      "mentions": 71,
+      "positive_pct": 74.6,
+      "negative_pct": 25.4
+    },
+    "Crowd": {
+      "mentions": 29,
+      "positive_pct": 58.6,
+      "negative_pct": 41.4
+    },
+    "Food & Beverages": {
+      "mentions": 108,
+      "positive_pct": 73.1,
+      "negative_pct": 26.9
+    },
+    "Parking": {
+      "mentions": 18,
+      "positive_pct": 38.9,
+      "negative_pct": 61.1
+    },
+    "Kids Area": {
+      "mentions": 28,
+      "positive_pct": 64.3,
+      "negative_pct": 35.7
+    },
+    "Cleanliness": {
+      "mentions": 44,
+      "positive_pct": 75.0,
+      "negative_pct": 25.0
+    }
+  }
+}
